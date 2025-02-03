@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.realbit-marketplace]
+path = "contracts/realbit-marketplace.clar"
+depends_on = []
+
 [contracts.realbit-property]
 path = "contracts/realbit-property.clar"
 depends_on = []
