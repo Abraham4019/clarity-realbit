@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/realbit-property.clar"
 depends_on = []
 
+[contracts.realbit-shares]
+path = "contracts/realbit-shares.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
